@@ -1,0 +1,10 @@
+body {
+  padding-top:200px;
+}
+#togglePass{
+ float: right;
+ margin-left: -25px;
+ margin-top: -30px;
+ right: 10px;
+ position: relative;
+}
